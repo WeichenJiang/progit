@@ -10,7 +10,7 @@
         "jade": "latest",
         "moment": "latest",
         "shelljs": "0.2.6",
-        "gulp" : "*",
+        "gulp": "*",
         "gulp-jshint": "*",
         "gulp-mocha": "*",
         "coffee-script": "*",
